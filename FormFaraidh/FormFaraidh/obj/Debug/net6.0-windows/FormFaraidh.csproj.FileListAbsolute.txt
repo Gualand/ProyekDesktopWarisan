@@ -1,0 +1,17 @@
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\bin\Debug\net6.0-windows\FormFaraidh.exe
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\bin\Debug\net6.0-windows\FormFaraidh.deps.json
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\bin\Debug\net6.0-windows\FormFaraidh.runtimeconfig.json
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\bin\Debug\net6.0-windows\FormFaraidh.dll
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\bin\Debug\net6.0-windows\FormFaraidh.pdb
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.csproj.AssemblyReference.cache
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.Form1.resources
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.csproj.GenerateResource.cache
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.AssemblyInfoInputs.cache
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.AssemblyInfo.cs
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.csproj.CoreCompileInputs.cache
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.dll
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\refint\FormFaraidh.dll
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.pdb
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\FormFaraidh.genruntimeconfig.cache
+C:\Users\GALLANT\source\repos\Proyek Desktop\FormFaraidh\FormFaraidh\obj\Debug\net6.0-windows\ref\FormFaraidh.dll
